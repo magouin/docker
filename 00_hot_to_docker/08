@@ -1,0 +1,2 @@
+docker pull alpine
+docker run -i --rm alpine /bin/ash
